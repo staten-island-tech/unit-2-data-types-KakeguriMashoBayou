@@ -1,0 +1,6 @@
+x = "hello its me"
+y= x.split( )
+z = y[0]
+print(y)
+print(z)
+
