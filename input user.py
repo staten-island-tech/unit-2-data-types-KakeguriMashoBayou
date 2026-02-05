@@ -1,4 +1,4 @@
-x = input("son im crine")
+x = input("son i'm crine:  ")
 y= x.split( )
 k=len(y)
 if k== 1:
